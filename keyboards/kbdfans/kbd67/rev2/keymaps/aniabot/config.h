@@ -17,3 +17,5 @@
 #pragma once
 
 // place overrides here
+#define RGBLED_NUM 16
+#define RGBLIGHT_DEFAULT_VAL RGBLIGHT_LIMIT_VAL // 0 = don't start out bright
